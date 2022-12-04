@@ -9,9 +9,9 @@ Allows you to use Alpine.js magics (`$el, $refs, $store, ...`) in templates.
 
 ## Install
 
-1. Download the plugin from the "[Releases](releases)" page.
+1. Download the plugin from [Github](https://github.com/tedem/mybb-alpinejs/releases) or [MyBB Extend](https://community.mybb.com/mods.php?action=view&pid=1538).
 2. Upload the files in the "Upload" folder to the root directory of your forum with SSH (`scp` command.) or FTP (FileZilla, CuteFTP, etc.).
-3. Install and activate the plugin named Alpine.js from the Admin KP → Configuration → (From left) Plugins page.
+3. Install and activate the plugin named Alpine.js from the Admin KP → Configuration → (From left.) Plugins page.
 
 ## Usage
 
